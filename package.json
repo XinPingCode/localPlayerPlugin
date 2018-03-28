@@ -1,0 +1,17 @@
+{
+  "name": "localPlayerPlugin",
+  "version": "0.0.12",
+  "cordova": {
+    "id": "localPlayerPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "XinPingCode",
+  "license": "ISC",
+  "description": ""
+}
