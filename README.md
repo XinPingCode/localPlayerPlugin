@@ -5,6 +5,6 @@ cordova.plugins.localPlayerPlugin.localPlayer(url,result =>{
 			console.log("result:",result);
 		},error =>console.log("error:",error));
     
-cordova.plugins.localPlayerPlugin.getDuration(this.username,result =>{
+cordova.plugins.localPlayerPlugin.getDuration(url,result =>{
 			console.log("result:",result);
 		},error =>console.log("error:",error));
